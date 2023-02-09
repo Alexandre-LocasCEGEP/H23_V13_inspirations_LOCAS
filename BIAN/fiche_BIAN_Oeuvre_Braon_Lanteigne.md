@@ -1,3 +1,3 @@
 
-TEST IMAGE IMPLANTATION EN 500X375
+TEST IMAGE IMPLANTATION
 ![Image Baron Fils](Baron_Lanteigne_Arriere_Detail.jpeg)
