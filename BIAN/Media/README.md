@@ -1,1 +1,1 @@
-# Tout photo et video de la piece utilise dans mon texte se retrouvent ici
+# Tout photo et vidéo de la piece utilisé dans mon texte se retrouvent ici
