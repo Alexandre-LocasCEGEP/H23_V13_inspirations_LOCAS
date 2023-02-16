@@ -14,7 +14,7 @@ Nom de l'artiste: Baron Lanteigne
 
 Année de réalisation: 2022     
 
-Description de l'oeuvre: 9 écran sur le plancher, images 3d feuillage, écran principal main/nature/code QR, faux dispositif au dos de l'écran, écran secondaire            <<Gliched>> voulu.     
+Description de l'oeuvre: 9 écran sur le plancher, images 3d feuillage, écran principal main/nature/code QR, faux dispositif au dos de l'écran, écran secondaire "gliched" voulu.     
 
 Type d'instalation: Comtemplatif     
 
