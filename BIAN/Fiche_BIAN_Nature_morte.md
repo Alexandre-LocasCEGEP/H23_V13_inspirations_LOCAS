@@ -1,2 +1,2 @@
-# Nature Morte, Baron Lanteigne
+# Nature Morte - Baron Lanteigne
  
