@@ -1,11 +1,8 @@
 # Nature Morte - Baron Lanteigne
 Le 2 février dernier, je me suis rendu au musée Arsenal a montreal.  
-"photo billet musée + photo BIAN"
-
-
 Comme vu dans le titre de la fiche, j'ai choisi de vous présenter Nature Morte une piece temporaire et interieure utilisé dans l'évenement de la BIAN 6 par l'artiste 
 Québécois Baron Lanteigne créée en 2022  
-"photo Cartel de la piece + photo Cartel de la page couverture de la BIAN". 
+![image du Canvas](Media/Nature_Morte_Canvas.jpg)
 
 
 # Presentation de l'oeuvre
@@ -18,24 +15,45 @@ Les écrans sur le plancher présentent une vidéo separé entre eux (voir le sh
 quelques morceaux de vitres qui reflète la lumiere et des codes QR disperssé dans le gazon.   
 
 # Effet Glitch
-Dans l'animation des écrans sur le plancher, Baron a décidé d'ajouter des animations de "Bug" sur les écrans a l'occasion (voir Photo ci dessou).  
+Dans l'animation des écrans sur le plancher, Baron a décidé d'ajouter des animations de "Bug" sur les écrans a l'occasion (voir Photo ci dessou dans l'écran du bas 
+Droit).  
+![photo écran glitch](Media/Nature_Morte_Avant_01.jpg)
 
 # Écran principal
 Comme mentionné dans la présentation de l'oeuvre, il y a deux écran suspendu en l'air. Un des deux affiche simplement une vidéo qui laisse a croire quelle 
-est brisée(voir premiere photo), mais l'autre a une grande particularité. le devant du dispositif ou s'attache l'écran nous laisse voir un compartiment 
+est brisée
+
+
+![écran bug suspendu](Media/Nature_Morte_Avant_02.jpg), 
+
+
+mais l'autre a une grande particularité. le devant du dispositif ou s'attache l'écran nous laisse voir un compartiment 
 comme celle d'un ordinateur. L'artiste nous le confirme aussi en inscrivant dans ce meme compartiment "Virtual World Emulation Device" ce qui ce traduit 
-comme: Dispositif d'émulation de monde virtuel.(voir deuxieme photo). Finalement au dos du compartiment, un écran y est attaché oû y est présenté, encore 
+comme: Dispositif d'émulation de monde virtuel. Finalement au dos du compartiment, un écran y est attaché oû y est présenté, encore 
 une fois sous forme d'animation 3d, une main sur laquelle y pousse des branches d'arbres et de buissons en plus de lui faire pousser des code QR.
+
+![Arrière de écran](Media/Nature_Morte_Arriere_Detail_01.jpg)
+![Arrière de écran détail](Media/Nature_Morte_Arriere_Detail_02.jpg)
+
 
 # La mise en espace et ses composantes thecnique
 Cette piece d'art multimédia contemplatif, comprend un total de 11 écran de 3 tailles differente. Une pour ceux sur le sol, une pour l'écran qui illustre 
 un bug et une pour l'écran attaché au compartiment principal. Chacun des écrans nécissite un fil pour la transcription video (préferablement HDMI) en 
-plus d'un fil pour y apporter le courant. Donc un total de 22 fils nécessaire pour le montage des écrans, mais le musée doit aussi être capanble de 
+plus d'un fil pour y apporter le courant. Donc un total de 22 fils nécessaire pour le montage des écrans.
+
+![Photo fils en dessous écrans 02](Media/Nature_Morte_Plancher_02.jpg)
+![Photo fils en dessous écrans 03](Media/Nature_Morte_Plancher_03.jpg)
+
+Mais le musée doit aussi être capanble de 
 fournir a la piece une façon d'accrocher les deux écrans qui ne sont pas au sol, par exemple a l'Arsenal, ils ont accrocher les écrans a l'aide de cable 
-attacher a une poutre faissant parti de l'architecture de l'endroit. Cela permet au écran de rester stable et réduit énormement les risques de domages 
-aux écrans qui pourrait arriver si les composantes était moin stable, comme nous avons pu le voir lors de la dance des robots instalé à la BIAN.(voir 
-photo des fils hdmi,electirique et attachement au plafond + photo instalations robot). Cette piece ne peut être mis collé au mur car nous devons être 
-capable de se déplacer tout autour de l'oeuvre pour voir tout les détails laissé par l'artiste mais c'est la seule contraite visible qui compliquerais 
+attacher a une poutre faissant parti de l'architecture de l'endroit.
+
+![Photo cable plafond](Media/Nature_Morte_Plafond.jpg)
+
+Cela permet au écran de rester stable et réduit énormement les risques de domages 
+aux écrans qui pourrait arriver si les composantes était moin stable, comme nous avons pu le voir lors de la dance des robots instalé à la BIAN. 
+Cette piece ne peut être mis collé au mur car nous devons être capable de se déplacer tout autour de l'oeuvre pour voir tout les détails laissé par l'artiste mais 
+c'est la seule contraite visible qui compliquerais 
 l'apréciation de l'oeuvre.  
 
 # Mon expérience vécu
@@ -48,5 +66,9 @@ indentique au notre, ne sera jamais capable de prendre la place du monde réels 
 créer un utopique ou la vie est parfaite. Un bon exemple d'un monde ou le virtuel est utopique  et le monde réel est délaissé completement est le film " Ready Player 
 One" de Steven Spielberg.  
 
-
-
+ # Ce que je retiens de l'oeuvre positivement et négativement
+ Cette oeuvre m'inspire pour l'animation 3d qui est un domaine dans lequel j'aime faire des projects. L'instalation solide est quelque chose de tres important pour 
+ moi. Devoir revenir a chaque semaine ou meme au deux semaine est d'après moi une grande perte de temps et d'argent pour l'artiste. Par contre, je trouve l'emplacement 
+ dans le musée très sombre et aussi une perte d'espace. L'oeuvre prend beaucoup de place pour le but elle apporte et elle aurait pu être mis dans un endroit plus 
+ restrait ou du moin plus clair. Une trame sonore pourrais très facilement être intégré à l'aide de haut parleur en haut des écrans suspendus ou à coté de ceux 
+ sur le plancher. 
