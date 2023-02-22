@@ -1,18 +1,18 @@
 # Nature Morte - Baron Lanteigne
 Le 2 février dernier, je me suis rendu au musée Arsenal a montreal.  
-Comme vu dans le titre de la fiche, j'ai choisi de vous présenter Nature Morte une piece temporaire et interieure utilisé dans l'évenement de la BIAN 6 par l'artiste 
+Comme vu dans le titre de la fiche, j'ai choisi de vous présenter Nature Morte une piece temporaire et interieure utilisée dans l'évenement de la BIAN 6 par l'artiste 
 Québécois Baron Lanteigne créée en 2022  
 ![image du Canvas](Media/Nature_Morte_Canvas.jpg)
 
 
 # Presentation de l'oeuvre
-L'oeuvre de Lanteigne est constitué de 9 écran placé sur le plancher en mode paysage et portrait avec quelques supports pour ne pas abimer les cables hdmi 
-et autres relian ces écrans au prises murales. De plus, 2 autres écran, cette fois ci placé seulement en mode portrait, sont suspendu a environ 1 metre et 
-demi.  
+L'oeuvre de Lanteigne est constituée de 9 écrans placés sur le plancher en mode paysage et portrait avec quelques supports pour ne pas abimer les cables hdmi 
+et autres relian ces écrans au prises murales. De plus, 2 autres écrans, cette fois ci placé seulement en mode portrait, sont suspendus à environ 1 metre et 
+demi du sol.  
 
 # Écrans sur le sol
-Les écrans sur le plancher présentent une vidéo separé entre eux (voir le shema ci dessous), la vidéo est une animation feuillage et de gazon avec 
-quelques morceaux de vitres qui reflète la lumiere et des codes QR disperssé dans le gazon.   
+Les écrans sur le plancher présentent une vidéo separée entre eux, la vidéo est une animation de feuillage et de gazon avec 
+quelques morceaux de vitres qui reflète la lumiere et des codes QR disperssés dans le gazon.   
 
 # Effet Glitch
 Dans l'animation des écrans sur le plancher, Baron a décidé d'ajouter des animations de "Bug" sur les écrans a l'occasion (voir Photo ci dessou dans l'écran du bas 
