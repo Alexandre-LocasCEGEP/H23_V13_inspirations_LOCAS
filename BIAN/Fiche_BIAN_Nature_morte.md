@@ -3,7 +3,8 @@ Le 2 février dernier, je me suis rendu au musée Arsenal a montreal.
 "photo billet musée + photo BIAN"
 
 
-Comme vu dans le titre de la fiche, j'ai choisi de vous présenter Nature Morte une piece temporaire et interieure utilisé dans l'évenement de la BIAN 6 par l'artiste Québécois Baron Lanteigne créée en 2022  
+Comme vu dans le titre de la fiche, j'ai choisi de vous présenter Nature Morte une piece temporaire et interieure utilisé dans l'évenement de la BIAN 6 par l'artiste 
+Québécois Baron Lanteigne créée en 2022  
 "photo Cartel de la piece + photo Cartel de la page couverture de la BIAN". 
 
 
@@ -41,7 +42,11 @@ l'apréciation de l'oeuvre.
 Je trouve que l'oeuvre est très simpliste pour le message, qui lui, est beaucoup plus intense. Visuellement c'est magnifique, le travail fait au niveau 
 3d est extremement complex. Ce n'est pas une oeuvre qui est interactive elle est seulement contempatif et elle n'est pas trop stimulante pour les yeux 
 comme l'oeuvre Retina de Herman Kolgen qui était tellement difficile pour les yeux a regarder que j'ai du prendre quelque pause durant mon visionement.
-C'est oeuvre ma fait pensée au monde virtuel qui prend de plus en plus de place dans notre société, et le but de l'artiste en mettant des bous de vitre éclaté dans son animation 3d était de nous faire comprendre que peu importe comment le dévelopement technologique avance et nous que sommes capable de recréer un monde virtuel indentique au notre, ne sera jamais capable de prendre la place du monde réels et mieux vaut se consentrer a prendre soin du monde qu'on a à la place d'essayer d'en créer un utopique ou la vie est parfaite. Un bon exemple d'un monde ou le virtuel est utopique  et le monde réel est délaissé completement est le film " Ready Player One".
+C'est oeuvre ma fait pensée au monde virtuel qui prend de plus en plus de place dans notre société, et le but de l'artiste en mettant des bous de vitre éclaté dans son 
+animation 3d était de nous faire comprendre que peu importe comment le dévelopement technologique avance et nous que sommes capable de recréer un monde virtuel 
+indentique au notre, ne sera jamais capable de prendre la place du monde réels et mieux vaut se consentrer a prendre soin du monde qu'on a à la place d'essayer d'en 
+créer un utopique ou la vie est parfaite. Un bon exemple d'un monde ou le virtuel est utopique  et le monde réel est délaissé completement est le film " Ready Player 
+One" de Steven Spielberg.  
 
 
 
