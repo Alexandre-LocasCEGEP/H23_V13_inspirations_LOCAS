@@ -52,7 +52,8 @@ attacher a une poutre faissant parti de l'architecture de l'endroit.
 
 Cela permet au écran de rester stable et réduit énormement les risques de domages 
 aux écrans qui pourrait arriver si les composantes était moin stable, comme nous avons pu le voir lors de la dance des robots instalé à la BIAN. 
-Cette piece ne peut être mis collé au mur car nous devons être capable de se déplacer tout autour de l'oeuvre pour voir tout les détails laissé par l'artiste mais 
+Cette piece ne peut être mis collé au mur car nous devons être capable de se déplacer tout autour de l'oeuvre pour voir tout les détails laissé par 
+l'artiste mais 
 c'est la seule contraite visible qui compliquerais 
 l'apréciation de l'oeuvre.  
 
@@ -60,15 +61,17 @@ l'apréciation de l'oeuvre.
 Je trouve que l'oeuvre est très simpliste pour le message, qui lui, est beaucoup plus intense. Visuellement c'est magnifique, le travail fait au niveau 
 3d est extremement complex. Ce n'est pas une oeuvre qui est interactive elle est seulement contempatif et elle n'est pas trop stimulante pour les yeux 
 comme l'oeuvre Retina de Herman Kolgen qui était tellement difficile pour les yeux a regarder que j'ai du prendre quelque pause durant mon visionement.
-C'est oeuvre ma fait pensée au monde virtuel qui prend de plus en plus de place dans notre société, et le but de l'artiste en mettant des bous de vitre éclaté dans son 
-animation 3d était de nous faire comprendre que peu importe comment le dévelopement technologique avance et nous que sommes capable de recréer un monde virtuel 
-indentique au notre, ne sera jamais capable de prendre la place du monde réels et mieux vaut se consentrer a prendre soin du monde qu'on a à la place d'essayer d'en 
-créer un utopique ou la vie est parfaite. Un bon exemple d'un monde ou le virtuel est utopique  et le monde réel est délaissé completement est le film " Ready Player 
-One" de Steven Spielberg.  
+C'est oeuvre ma fait pensée au monde virtuel qui prend de plus en plus de place dans notre société, en mettant des bous de vitre 
+éclaté dans son animation 3d je crois quil veut nous faire comprendre que peu importe comment le dévelopement technologique avance et nous que sommes capable de
+recréer un monde virtuel indentique au notre, ne sera jamais capable de prendre la place du monde réels et mieux vaut se consentrer a prendre soin du monde qu'on a à la place d'essayer d'en créer un utopique ou la vie est parfaite. Un bon exemple d'un monde ou le virtuel est utopique  et le monde réel est délaissé completement est le film " Ready Player One" de Steven Spielberg.  
 
  # Ce que je retiens de l'oeuvre positivement et négativement
- Cette oeuvre m'inspire pour l'animation 3d qui est un domaine dans lequel j'aime faire des projects. L'instalation solide est quelque chose de tres important pour 
- moi. Devoir revenir a chaque semaine ou meme au deux semaine est d'après moi une grande perte de temps et d'argent pour l'artiste. Par contre, je trouve l'emplacement 
- dans le musée très sombre et aussi une perte d'espace. L'oeuvre prend beaucoup de place pour le but elle apporte et elle aurait pu être mis dans un endroit plus 
- restrait ou du moin plus clair. Une trame sonore pourrais très facilement être intégré à l'aide de haut parleur en haut des écrans suspendus ou à coté de ceux 
+ Cette oeuvre m'inspire pour l'animation 3d qui est un domaine dans lequel j'aime faire des projects. L'instalation solide est quelque chose de tres 
+ important pour 
+ moi. Devoir revenir a chaque semaine ou meme au deux semaine est d'après moi une grande perte de temps et d'argent pour l'artiste. Par contre, je trouve 
+ l'emplacement 
+ dans le musée très sombre et aussi une perte d'espace. L'oeuvre prend beaucoup de place pour le but elle apporte et elle aurait pu être mis dans un 
+ endroit plus 
+ restrait ou du moin plus clair. Une trame sonore pourrais très facilement être intégré à l'aide de haut parleur en haut des écrans suspendus ou à coté 
+ de ceux 
  sur le plancher. 
