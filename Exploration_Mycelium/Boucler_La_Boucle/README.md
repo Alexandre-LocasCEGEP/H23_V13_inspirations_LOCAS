@@ -1,1 +1,1 @@
-# Dans ce dossier, vous trouverrez toutes les informations nécessaire pour découvrir le projet Boucler La Boucle.
+# Dans ce dossier, vous trouverrez tout le contenu médiatique pour le projet Boucler La Boucle.
