@@ -1,1 +1,1 @@
-# Dans ce dossier, vous trouverrez toutes les informations nécessaire pour découvrir le projet Echomarine.
+# Dans ce dossier, vous trouverrez tout le contenu médiatique pour le projet Echomarine
