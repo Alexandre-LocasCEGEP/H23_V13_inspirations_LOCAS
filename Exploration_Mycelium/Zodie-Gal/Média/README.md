@@ -1,1 +1,1 @@
-# Dans ce dossier ce trouve tout les documents photos et dessin pour le projet Zodie-Gal
+# Dans ce dossier ce trouve tout le contenu médiatique pour le projet Zodie-Gal
