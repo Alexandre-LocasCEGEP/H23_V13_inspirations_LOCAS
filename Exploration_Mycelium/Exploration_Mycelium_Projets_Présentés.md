@@ -46,7 +46,7 @@
 ## 5. Echomarine
 ![Photo couverture Echomarine](Echomarine/Média/Echomarine_Couverture.png)
 
-###### Créateur(ice)s
+###### Créatrices
 - Florence Lapierre
 - Natacha Abdallah
 - Tracy Gua
