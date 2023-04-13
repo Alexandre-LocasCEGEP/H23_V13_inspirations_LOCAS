@@ -7,9 +7,9 @@
 
 ![Photo couverture Edria](Edria/Média/Edria_Couverture.png)
 ###### Créateur(e)s
--Elwin Durant
--Loic Delmorne
--Dominic Roberts
--Grabriel Leblanc
--Meryem Berbiche
--Jean-Christophe
+- Elwin Durant
+- Loic Delmorne
+- Dominic Roberts
+- Grabriel Leblanc
+- Meryem Berbiche
+- Jean-Christophe
