@@ -139,10 +139,11 @@ présentation dans une bulle à l'extérieur et quand ils ont réaliser que ca n
 allaient présenter leur projet.
 
 ## Cours nécessaire pour faire un projet de ce genre
+- Web 1-5
+- Installation multimédia
+- Traitement audiovisuel
 
 
-
-
-
+## Composante technologique inconue
 
 
