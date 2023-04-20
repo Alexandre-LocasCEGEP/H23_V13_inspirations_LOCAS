@@ -116,5 +116,26 @@ Malheureusement Je n'ai aucune autre photo de la visite suite au fait que j'ai d
 ![Schéma de branchement](Echomarine/Média/Echomarine_Shema_de_branchement.png)
 
 
+## Apreciation avant la découverte finale des oeuvres
+1. Édria était d'après moi l'oeuvre avec le plus de potentiel. L'idée de base est super. Des tours avec detection de mouvement qui crée chaqu'un un 
+effet visuel et auditif différent sur une autre tour. Avec ce qu'on a pu voir lors de la visite avec la classe, leur dévoument au projet et le nombre de 
+personne qui participaient au projet me laissait croire à ce qu'il devienne le meilleur des cinq.    
+
+2. Zodie-Gal est un jeux vidéo. Ce dommaine m'interresse beaucoup et me donnais beaucoup d'exitement à le voir complété. Le style d'art est, d'après 
+moi, super efficace pour le but de son jeux. Après le visionement des vidéos des étudiant en TIM 3eme années, elle avait déjà fini tout son art il 
+lui manquait juste a programer le site pour que le jeux soit fonctionnel.   
+
+3. Nexum est une idée qui n'est pas original d'eux. Néanmoin elle reste très complexe a réaliser en une année. Cette contrainte ne m'inspirait pas 
+confiance. De plus, les dessins qu'on pouvait retrouver à l'intereur des codes QR n'était pas au meme niveau artistique que le restant de l'oeuvre ce 
+qui enlevait de la crédibilité a leur projet.     
+
+4. Luma sol est tout simplement un vélo qu'on vient utiliser et il active differentes séquence de lumières dépendant la saison déterminer. Je trouve ce 
+concept tres simpliste considerant le nombre d'étudiant qui ont confectionner cet oeuvre et le temps de préparation alloué a cette même équipe. Je ne 
+trouve pas leur idée mauvaise au contraire elle peut être très bien si elle est exécutée correctement.
+
+5. Echomarine 
+
+
+
 
 
