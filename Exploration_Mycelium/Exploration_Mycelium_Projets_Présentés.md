@@ -133,7 +133,14 @@ qui enlevait de la crédibilité a leur projet.
 concept tres simpliste considerant le nombre d'étudiant qui ont confectionner cet oeuvre et le temps de préparation alloué a cette même équipe. Je ne 
 trouve pas leur idée mauvaise au contraire elle peut être très bien si elle est exécutée correctement.
 
-5. Echomarine 
+5. Echomarine est une sensibilisation sur plusieurs animaux marain en voix d'extinction. Pendant leur presentaion, ils ont eu beaucoup de misère à 
+présenter et expliquer leur projet ce qu'il n'aide pas à ce qu'on ai hàte de voir leur projet terminé. L'idée était très embicieuse de faire leur 
+présentation dans une bulle à l'extérieur et quand ils ont réaliser que ca ne serait pas possible ils ont du se limiter sur l'endroit et la façon qu'ils 
+allaient présenter leur projet.
+
+## Cours nécessaire pour faire un projet de ce genre
+
+
 
 
 
