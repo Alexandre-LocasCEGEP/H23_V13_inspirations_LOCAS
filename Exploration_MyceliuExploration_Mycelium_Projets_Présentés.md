@@ -14,13 +14,13 @@
 - Meryem Berbiche
 - Jean-Christophe   
 #### - Lien avec Mycelium
-Sur chacune des tours contruite par le groupe, ils ont mit du faux feuillage qui monte tout au long des tours et des lumieres qui pourrais faire penser a 
-des champignon et leurs racines.    
+Sur chacune des tours contruite par le groupe, ils ont mit du faux feuillage qui monte tout au long des tours et des lumieres qui pourrais faire penser 
+a des champignon et leurs racines.    
 ![Photo schéma des pilliers](Edria/Média/Edria_Schema_Pilliers.jpg)    
 ![Photo Prototyope d'une tour](Edria/Média/Edria_Prototype_01.jpg)
 
 #### - photos lors de la visite
-Malheureusement Je n'ai aucune autre photo de la visite suite au fait que j'ai du changer de téléphone à cause d'un bris.    
+Malheureusement Je n'ai aucune autre photo de la visite suite au fait que j'ai du changer de téléphone à cause d'un bris.(Photo prise du site TIM)     
 ![Photo d'un pilier](Edria/Média/Edria_Prototype_02.jpg)
 
 #### - Schéma d'implantation
@@ -33,18 +33,22 @@ Malheureusement Je n'ai aucune autre photo de la visite suite au fait que j'ai d
 
 ![Photo couverture Zodie-Gal](Zodie-Gal/Média/Zodie-Gal_Couverture.png)
 
-### Créateurice
+### Créatrice
 - Abdanor Yara
 
 #### - Lien avec Mycelium
-Aucun. 
+Aucun puique c'est un jeux video et est un projet à part du projet mycelium
 
 #### - photos lors de la visite
 Toutes Les photos sont des dessins disponible sur le site TIM du projet Zodie-Gal. Dans le profil des Zodiacs. Où dans le dossier média de Zodie-Gal    
 [TIM Zodie-Gal Zodiac](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html)      
-[Github Alexandre Locas Zodie-Gal Média](https://github.com/Alexandre-LocasCEGEP/H23_V13_inspirations_LOCAS/tree/main/Exploration_Mycelium/Zodie-Gal/Média)
+[Github Alexandre Locas Zodie-Gal Média](https://github.com/Alexandre-LocasCEGEP/H23_V13_inspirations_LOCAS/tree/main/Exploration_Mycelium/Zodie-
+Gal/Média)
 
 #### - Schéma d'implantation
+Le projet Zodie-Gal n'a pas de schéma d'implantation puisque c'est un jeux vidéo. Par contre, elle a dessiner un plan pour le déroulement de son jeux, 
+ce qu'on pourrait considérer son schéma s'implantation.  
+![Photo_Schema_Zodie-Gal](Zodie-Gal/Média/Zodie-Gal_Schema.png)
 
 ## 3. Nexum
 ![Photo couverture Nexum](Nexum/Média/Nexum_Couverture.png)
@@ -57,7 +61,7 @@ Toutes Les photos sont des dessins disponible sur le site TIM du projet Zodie-Ga
 
 #### - Lien avec Mycelium
 Forêt mistique avec des trames sonores pour nous mettre dans l'ambiance complémentée de code QR qui nous rapporte a des dessins d'animeaux faissant 
-partie de la Forêt créée par le groupe. Ils se sont inspirer des photos suivantes
+partie de la Forêt créée par le groupe. Les lumières mis sur le sol peuvent nous faire penser à des sortes de champignons. Ils se sont inspirer des photos suivantes
 ![Photo inspiration forêt](Nexum/Média/Nexum_Inspiration_Foret_01.jpg)![Photo inspiration forêt](Nexum/Média/Nexum_Inspiration_Foret_02.jpg)
 ![Photo inspiration forêt](Nexum/Média/Nexum_Inspiration_Foret_03.jpg)![Photo inspiration forêt](Nexum/Média/Nexum_Inspiration_Foret_04.jpg)
 ![Photo inspiration forêt](Nexum/Média/Nexum_Inspiration_Foret_05.jpg)
@@ -76,11 +80,19 @@ Malheureusement Je n'ai aucune autre photo de la visite suite au fait que j'ai d
 - Michaël Simard
 - Pénélope Morrisson
 
-#### - Lien avec Mycelium
+#### - Lien avec Mycelium 
+Ils ont mis des fils lumineux du bas de l'arbre comme pour simuler le mycelium d'un champignon.    
+![Photo_Bas_Arbre_Lumineux](Luma_Sol/Média/Luma_Sol_Final_01.jpg)
+![Photo_Bas_Arbre_Lumineux](Luma_Sol/Média/Luma_Sol_Final_03.jpg)
 
 #### - photos lors de la visite
+![Photo_Test_Lumières](Luma_Sol/Média/Luma_Sol_Lumiere_Test_02.jpg)
+![Photo_Prototype](Luma_Sol/Média/Luma_Sol_Prototype_Final.png)
 
-#### - Schéma d'implantation
+
+#### - Schéma Informatique
+Il n'y a pas de schéma d'implantation.
+![Schéma_Électrique](Luma_Sol/Média/Luma_Sol_Schema_Informatique.png)
 
 ## 5. Echomarine
 ![Photo couverture Echomarine](Echomarine/Média/Echomarine_Couverture.png)
@@ -93,10 +105,15 @@ Malheureusement Je n'ai aucune autre photo de la visite suite au fait que j'ai d
 
 
 #### - Lien avec Mycelium
-
+Celui-ci comme Zodie-Gal est un projet à part du projet mycelium, il cherche a sensibiliser les visiteurs a la proche instinction de plusieurs espèces 
+marine comme nous pouvons le voir sur ces deux maquettes.
+![Photo_Maquette_01](Echomarine/Média/Echomarine_Maquette_01.png)
+![Photo_Maquette_02](Echomarine/Média/Echomarine_Maquette_02.png)
 #### - photos lors de la visite
-
+Malheureusement Je n'ai aucune autre photo de la visite suite au fait que j'ai du changer de téléphone à cause d'un bris.    
 #### - Schéma d'implantation
+![Schéma d'implantation](Echomarine/Média/Echomarine_plantation.png)
+![Schéma de branchement](Echomarine/Média/Echomarine_Shema_de_branchement.png)
 
 
 
