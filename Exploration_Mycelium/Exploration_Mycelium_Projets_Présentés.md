@@ -145,4 +145,4 @@ allaient présenter leur projet.
 
 
 ## Composante technologique inconue
-MAX8 est un logiciel de patching pour musique et sons qui peut etre utilise pour relier des effects de couleurs a des lumieres et autres logiciels.
+MAX8 est un logiciel de patching pour musique et sons qui peut être utilisé pour relier des effets de couleurs à des lumières et à d'autres logiciels.
